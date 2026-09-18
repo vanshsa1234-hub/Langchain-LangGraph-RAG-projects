@@ -11,3 +11,6 @@ pypdf
 beautifulsoup4
 wikipedia
 langchain-text-splitters
+sentence-transformers
+langchain-huggingface
+langchain-chroma
